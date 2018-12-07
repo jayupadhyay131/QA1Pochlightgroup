@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>2.1 Submit a Listing - AC</name>
+   <name>1 Submit a Listing - AC</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>8f08562d-073e-442f-8a61-70a208d950e8</testCaseGuid>
