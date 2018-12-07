@@ -106,20 +106,6 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-initial-value</name>
-      <type>Main</type>
-      <value>V</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>badinput</name>
-      <type>Main</type>
-      <value>false</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI I0VJ4d Wic03c&quot;]/div[@class=&quot;Xb9hP&quot;]/input[@class=&quot;whsOnd zHQkBf&quot;]</value>

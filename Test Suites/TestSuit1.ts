@@ -15,6 +15,6 @@
       <guid>684e0184-56b2-4d9b-b87e-0efa254edf8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/1 Submit a Listing - AC</testCaseId>
+      <testCaseId>Test Cases/TC1 Submit a Listing - AC</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
