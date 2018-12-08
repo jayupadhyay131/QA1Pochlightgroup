@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-1TestSuit,Chrome 70.0.3538.110,,2018-12-05 21:21:48,2018-12-05 21:22:00,12.516s,FAILED
-,,,,,,
-Test Cases/2.1 Submit a Listing - AC,Chrome 70.0.3538.110,,2018-12-05 21:21:48,2018-12-05 21:21:59,10.516s,FAILED
-"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-05 21:21:50,2018-12-05 21:21:56,6.004s,PASSED
-"navigateToUrl(""http://porchlightdev.getventive.com/login"")",Chrome 70.0.3538.110,,2018-12-05 21:21:56,2018-12-05 21:21:57,1.428s,PASSED
-maximizeWindow(),Chrome 70.0.3538.110,,2018-12-05 21:21:57,2018-12-05 21:21:58,1.196s,PASSED
-"click(findTestObject(""Object Repository/porchlightdev.getventive.com/2.1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/i_Use your PorchLight email an""))",Chrome 70.0.3538.110,,2018-12-05 21:21:58,2018-12-05 21:21:59,0.742s,FAILED

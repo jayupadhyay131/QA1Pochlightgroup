@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLig
 WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_IRES MLS_mls_listing_id'), 
     '12345')
 
-WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_IRES MLS_address'), 'Automated QA AC Listing 1')
+WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_IRES MLS_address'), 'Automated QA AC Listing 3')
 
 WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_IRES MLS_City'), 'Boise')
 
@@ -69,15 +69,12 @@ WebUI.click(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight
 
 WebUI.delay(10)
 
-WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_Add Listing_searchlistin'), 
-    'automated')
+WebUI.setText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/input_Click here_searchlisting'), 
+    'Automated QA AC Listing 3')
 
-WebUI.verifyElementText(findTestObject('OR1 Submit a Listing - AC/Page_Connect 2  PorchLight Real Est/div_Automated QA AC Listing 1'), 
-    'Automated QA AC Listing 1 Boise, CO 83702')
+WebUI.takeScreenshot()
 
 WebUI.delay(10)
 
 WebUI.closeBrowser()
-
-WebUI.acceptAlert()
 
